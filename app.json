@@ -1,8 +1,8 @@
 {
   "expo": {
     "scheme": "ppia",
-    "name": "Wali Santri PPIA",
-    "slug": "wali-santri-android",
+    "name": "Your Project Name",
+    "slug": "your-slug-name",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,14 +15,14 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ppia.walisantri"
+      "bundleIdentifier": "com.your.bundle.identifier"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.ppia.walisantri",
+      "package": "com.your.bundle.identifier",
       "versionCode": 1,
       "googleServicesFile": "./google-services.json"
     },
